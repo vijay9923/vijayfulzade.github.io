@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vijay Fulzade - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f6f9;
+      color: #333;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 1.2em;
+    }
+    section {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+      color: #2c3e50;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 5px 0;
+    }
+    footer {
+      text-align: center;
+      background: #2c3e50;
+      color: white;
+      padding: 15px;
+      margin-top: 20px;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Vijay Fulzade</h1>
+    <p>Electrical Engineer | Robotics & Automation Enthusiast</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I am Vijay Fulzade, passionate about Electrical Engineering, Robotics, and Industrial Automation. I enjoy learning, building, and solving real-world engineering challenges.</p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Diploma in Electrical Engineering</strong> - 82.28% (2021)</li>
+      <li><strong>SSC</strong> - 65.60% (2017)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Electrical Wiring & Maintenance</li>
+      <li>Robotics & Industrial Automation</li>
+      <li>Problem Solving & Project Execution</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li>Patil Automation Pvt Ltd, Pune (Apr 2022 - May 2023)</li>
+      <li>Parc Robotics System Pvt Ltd, Pune (Jun 2023 - Present)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:fulzadevijay93@gmail.com">fulzadevijay93@gmail.com</a></p>
+    <p>Mobile: 9529491939</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Vijay Fulzade | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
